@@ -12,11 +12,11 @@ I have selected this artwork as I was drawn to the way that the artist has used 
 
 I believe perlin noise is a function that could be used to create abstract visuals that depict smooth, organic shapes and movement. Even though this artwork is static, I thought it could be interesting to use movement to depict the same style of artwork. The way perlin noise uses continuous movements, rather than static movement, would help to create the more organic shapes.
 
-**Perlin Noise Example 01**
+## Perlin Noise Example 01**
 
 ![alt text](<PerlinNosie_Example 01.png>)
 
-**Perlin Noise p5 Example**
+## Perlin Noise p5 Example**
 
 ![alt text](PerlinNoise_Code_Example.png)
 https://github.com/Abar23/Perlin-Noise-Flow-Field/blob/master/sketch.js
