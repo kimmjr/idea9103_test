@@ -16,7 +16,10 @@ I believe perlin noise is a function that could be used to create abstract visua
 
 ![alt text](<PerlinNosie_Example 01.png>)
 
-## Perlin Noise Code Link
+## Perlin Noise Code Example 01
 
 ![alt text](PerlinNoise_Code_Example.png)
+
+## GitHub Code Example Link
+
 https://github.com/Abar23/Perlin-Noise-Flow-Field/blob/master/sketch.js
